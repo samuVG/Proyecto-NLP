@@ -1,4 +1,4 @@
-# Proyecto-Aprendizaje-Estadistico
+# Proyecto-NLP
 
 ### **Elaborado por:** Samuel Vasco González.
 
